@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anurag-gharat/All-Css/issues"
   },
-  "homepage": "https://github.com/anurag-gharat/All-Css#readme"
+  "homepage": "https://github.com/anurag-gharat/All-Css#readme",
+  "dependencies": {
+    "lax.js": "^1.2.5"
+  }
 }
